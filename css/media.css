@@ -1,0 +1,471 @@
+
+
+
+
+
+
+/*Extra Small Device*/
+@media (max-width: 575.98px) {
+
+.navbar-brand img {
+	width: 53%;
+}
+.navbar-light .navbar-nav .nav-link{
+   position: relative;
+}
+.navbar-light .navbar-toggler i {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+.navbar-light .navbar-toggler i {
+    font-size:35px;
+    color: #fff;
+}
+.navbar-light .navbar-toggler i:hover{
+    color: #f36f21;
+}
+.navbar-light .navbar-toggler {
+	border-color: transparent;
+}    
+.navbar-nav {
+	text-align: center;
+	background: rgba(0, 0, 0, 0.74);
+}
+button:focus {
+	outline: 0;
+}
+#about {
+	padding-top: 30px;
+    padding-bottom: 10px;
+}
+#wc-prog {
+	padding-top: 30px;
+} 
+.prog-head {
+    text-align: center;
+}
+.prog-head h1{
+    font-size: 32px;
+}    
+.prog-head h1::after {
+left: 38%;
+}
+.prog-btn {
+	padding-bottom: 40px;
+	text-align: center;
+}
+.join-head h1 {
+	font-size: 42px;
+}    
+.join-btn {
+	margin-top: 10px;
+	padding-bottom: 12px;
+}
+.join-btn a{
+    font-size: 14px;
+}
+.join-btn i{
+    font-size: 14px;
+}
+.join-btn a {
+	padding: 12px 14px;
+}    
+#gallery {
+	padding: 30px 0px;
+}
+.gal-head h1 {
+	font-size: 32px;
+}  
+.gal-head h1::after {
+	left: 37%;
+}
+.overlay h4 {
+	text-align: center;
+}
+.nav {
+	display: inline;
+	text-align: center;
+}
+.nvpil {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.nav-pills .nav-link {
+	padding: 10px 20px;
+}    
+.gal-btn ul li{
+    padding-bottom: 10px;
+}
+.class-head h1 {
+	font-size: 30px;
+	padding-bottom: 40px;
+}    
+.class-head h1::after {
+	bottom: 20px;
+	left: 40%;
+}
+.slick-prev.slick-arrow {
+	padding: 0px 0px;
+	top: -17%;
+	left: 31.5%;
+}
+.slick-next.slick-arrow {
+	padding: 0px 13px;
+	top: -17%;
+	left: 50.5%;
+}
+#pricing {
+	padding: 50px 0px;
+}
+.price-head h1 {
+	font-size: 32px;
+}
+.price-head h1::after {
+	left: 38%;
+}
+.detail-btn a {
+	font-size: 13px;
+}
+#video {
+	padding: 50px 0;
+}
+.video-head h1 {
+	font-size: 32px;
+}    
+.video-head h1::after {
+	left: 38%;
+}
+.video-head p {
+    font-size: 14px;
+    padding: 0px 0px; 
+}
+.video-icon {
+	margin-top: 10px;
+}    
+.video-icon i {
+	padding: 16px 23px;
+}
+.video-icon i::after {
+	width: 98px;
+	height: 96px;
+}    
+.video-icon::before {
+	left: 11%;
+	width: 230px;
+}
+#trainer {
+	padding-top: 40px;
+}
+.trainer-head h1 {
+	font-size: 32px;
+}  
+.trainer-head h1::after {
+	left: 38%;
+}
+#blog {
+	padding-top: 40px;
+	padding-bottom: 50px;
+} 
+.blog-head h1 {
+	font-size: 38px;
+}    
+.blog-head h1::after {
+	left: 38%;
+}    
+#footer {
+	padding-top: 30px;
+}    
+.footer-menu ul li a {
+	font-size: 10px;
+}
+.footer-form {
+	margin: 30px 16px;
+}
+.footer-form .form-control {
+	padding: 5px 10px;
+}
+.footer-form button {
+	right: 12%;
+	padding: 7px 12px;
+}
+button, input, optgroup, select, textarea {
+	font-size: 15px;
+}    
+.copyright p {
+	font-size: 11px;
+}
+.nav-tabs .nav-item {
+	margin-bottom: 8px;
+}
+.price-table {
+	margin-bottom: 20px;
+}
+    
+    
+    
+    
+    
+ 
+}
+
+@media (min-width: 330px) and (max-width: 575.98px) {
+    
+.navbar {
+	padding: 8px 0px;
+}
+
+.prog-head h1::after {
+	left: 42%;
+}
+.gal-head h1::after {
+	left: 42%;
+}
+.video-icon::before {
+    display: none;
+}
+.video-head h1::after {
+	left: 42%;
+}    
+.trainer-head h1::after {
+	left: 42%;
+}
+.blog-head h1::after {
+	left: 42%;
+}
+.slick-prev.slick-arrow {
+	left: 35.5%;
+}
+.slick-next.slick-arrow {
+	left: 48.5%;
+}
+.price-head h1::after {
+	left: 41%;
+}
+.nav-tabs .nav-item {
+	margin-bottom: 8px;
+}
+.price-table {
+	margin-bottom: 20px;
+}
+    
+    
+    
+   
+    
+}
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*nav bar part start*/
+.navbar-brand img {
+	width: 208px;
+}
+.navbar-light .navbar-toggler i {
+	font-size: 35px;
+	color: #fff;
+}
+.navbar-light .navbar-nav .nav-link{
+   position: relative;
+}
+.navbar-light .navbar-toggler i {
+    font-size:35px;
+    color: #fff;
+}
+.navbar-light .navbar-toggler i:hover{
+    color: #f36f21;
+}
+.navbar-light .navbar-toggler {
+	border-color: transparent;
+}    
+.navbar-nav {
+	text-align: center;
+	background: rgba(0, 0, 0, 0.74);
+}
+button:focus {
+	outline: 0;
+}
+    .prog-btn {
+        margin-bottom: 40px;
+    }
+    .join-btn {
+	margin-top: 35px;
+}
+    .nav-tabs .nav-item {
+	margin-bottom: 10px;
+}
+    .price-table {
+	margin-bottom: 30px;
+}
+    .video-icon::before {
+	left: 7%;
+}
+    .blog-item {
+	margin-bottom: 30px;
+}
+
+
+#blog {
+    padding-top: 50px;
+	padding-bottom: 40px;
+}
+    
+    .footer-form {
+	margin: 18px 33px;
+}
+
+
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*nav bar part start*/
+.navbar-brand img {
+	width: 208px;
+}
+.navbar-light .navbar-toggler i {
+	font-size: 35px;
+	color: #fff;
+}
+.navbar-light .navbar-nav .nav-link{
+   position: relative;
+}
+.navbar-light .navbar-toggler i {
+    font-size:35px;
+    color: #fff;
+}
+.navbar-light .navbar-toggler i:hover{
+    color: #f36f21;
+}
+.navbar-light .navbar-toggler {
+	border-color: transparent;
+}    
+.navbar-nav {
+	text-align: center;
+	background: rgba(0, 0, 0, 0.9);
+}
+
+
+
+
+.carousel-item h1 {
+	font-size: 70px;
+}
+.carousel-item h5 {
+	font-size: 22px;
+}
+    .carousel-item p {
+	font-size: 14px;
+	padding-bottom: 10px;
+}
+.carousel-caption {
+	top: 38%;
+	transform: translateY(-38%);
+}
+.carousel-item a {
+	padding: 10px 30px;
+}
+    
+    .prog-btn {
+        margin-bottom: 40px;
+    }
+    .join-btn {
+	margin-top: 2px;
+}
+
+    
+    .price-table {
+	padding: 10px;
+}
+    .detail-btn a {
+	font-size: 14px;
+	padding: 12px 19px;
+}
+    
+    .video-icon::before {
+	left: 18%;
+}
+    
+    .blog-item {
+	margin-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+.footer-form {
+	margin: 18px 70px;
+}
+
+
+
+
+
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
